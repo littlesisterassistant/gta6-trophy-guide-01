@@ -1,392 +1,57 @@
-{
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
-}
+{"game":"Grand Theft Auto VI","platform":"PlayStation 5","list":"The official 55 PlayStation 5 trophies, as Exophase and PSNProfiles listed them on 2026-11-18","trophies":[
+{"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","kinds":["story"],"missable":false,"hidden":false,"stage":3,"guide":"Earn the other 54 trophies and this one pops on its own — there is nothing extra to do. Finish the story, the 100% checklist and every side goal on this list, and the platinum is the last trophy you earn. PowerPyx puts the whole run at about 200 hours; Push Square says 250 or more.","sources":["PowerPyx","Push Square"]},
+{"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Play the opening mission, Gone Fishing, and finish it. It is the first mission of Chapter 1 and unlocks automatically as the story starts; it cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Finish Chapter 1. The trophy pops when the chapter ends. PowerPyx notes the chapter trophies can pop a little late, after the first mission or two of the next chapter, so do not worry if it does not appear the instant the chapter closes.","sources":["PowerPyx","sixshore"]},
+{"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Finish Chapter 2. Like the other chapter trophies it unlocks automatically through story play and cannot be missed; PowerPyx notes it may pop a little after the chapter actually ends, once you have cleared the first mission or two of Chapter 3.","sources":["PowerPyx","sixshore"]},
+{"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Finish Chapter 3. It unlocks automatically as you play the story and cannot be missed; if it does not pop at the chapter's end, it should appear after the first missions of Chapter 4.","sources":["PowerPyx","sixshore"]},
+{"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Finish Chapter 4. It unlocks automatically through story play and cannot be missed; PowerPyx notes it may pop a little late, after the opening missions of Chapter 5.","sources":["PowerPyx","sixshore"]},
+{"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Finish the final mission of Chapter 5. It is the story's last mission and the gold pops when it ends. After it you return to free roam, so nothing after the story is locked away — the whole cleanup can be done then.","sources":["PowerPyx","sixshore"]},
+{"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission Breakfast Run. It unlocks automatically as you play through the story and cannot be missed — just keep following the main missions and it pops when the mission ends.","sources":["PowerPyx","sixshore"]},
+{"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission The Cartel Heist. It unlocks automatically through story play and cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission Child's Play. It unlocks automatically through story play and cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission Headliners. It unlocks automatically through story play and cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission VCIA Takedown. It unlocks automatically through story play and cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","kinds":["story"],"missable":false,"hidden":true,"stage":1,"guide":"Complete the story mission Operation Savage Glory. It unlocks automatically through story play and cannot be missed.","sources":["PowerPyx","sixshore"]},
+{"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","kinds":["collectibles","activities"],"missable":false,"hidden":false,"stage":2,"guide":"Reach 100% on the in-game completion checklist, which opens after the story under Progress, then Stats, then 100% Completion. PowerPyx calls the checklist lenient — closer to 60% true completion: you need 70 of 80 challenges, 15 of 18 meditations and 300 stunts, while robberies, underwater discoveries, shooting ranges, drone races and Bret's quests need everything. Most of the work comes from the other trophies on this list, and it is the hardest trophy and usually the last one earned.","sources":["PowerPyx","sixshore"]},
+{"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":250,"guide":"Pull off 250 stunts of any kind: stunt jumps, flights under bridges, knife flights and base jumps all count, and PowerPyx counts 397 stunts in the game. The 100% checklist needs 300, so keep jumping after this pops. Stunts are tracked on the progress screen.","sources":["PowerPyx","sixshore"]},
+{"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":9,"guide":"Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, a video game, a race and a stunt, as PowerPyx lists them. You only need to try each one, not win or finish it — dip into each as you meet it and the trophy pops on the ninth.","sources":["PowerPyx","sixshore"]},
+{"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":42,"guide":"Earn a gold medal in all 42 Shooting Range challenges. The ranges are one of the 9 activity types, and PowerPyx says the gold medals are not too difficult. Work through them range by range — every challenge must be gold, so replay any that lands silver or bronze.","sources":["PowerPyx","sixshore"]},
+{"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":14,"guide":"Win a Top Fun drone race at every one of the 14 locations. Each location is a separate race, and the 100% checklist needs all of them too, so this is a straight race-through — learn each course's line and win them one by one.","sources":["PowerPyx","sixshore"]},
+{"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":20,"guide":"Win 20 different races. Any race type counts, but each distinct race only counts once, so spread your wins across the map instead of replaying the same one.","sources":["PowerPyx","sixshore"]},
+{"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"guide":"Beat Cal in a fishing challenge. You meet Cal in Chapter 1 and he texts you a fishing spot afterwards — head to the spot he sends and out-fish him. Fishing is also one of the 9 activity types.","sources":["PowerPyx","sixshore"]},
+{"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"guide":"Play any one in-game video game through to the end. Three run on the TV at home and a fourth sits on arcade machines around Leonida — pick any one and finish it.","sources":["PowerPyx","sixshore"]},
+{"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Complete the final mission for Andy. His strand is Lucia-only and starts with a phone call in Chapter 3 — answer it, follow the strand to its last mission, and finish it.","sources":["PowerPyx","sixshore"]},
+{"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Complete the final mission for Kenton: his treasure-diving strand covers 7 shipwrecks. Kenton goes quiet after Chapter 1 and returns later, so it is not missable — pick the strand back up when he calls and dive all seven wrecks.","sources":["PowerPyx","sixshore"]},
+{"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Complete the final mission for Billy. His strand runs at the mud club in Kelly County and opens in Chapter 2 — work through it to the last mission.","sources":["PowerPyx","sixshore"]},
+{"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","kinds":["activities"],"missable":false,"hidden":false,"stage":3,"count":8,"guide":"Complete 8 mission strands for strangers across Leonida. PowerPyx notes only some side questlines count and is still confirming which — play every stranger strand you find, and you can finish them after the story. Note it is not part of the 100% checklist, so it may still be open after A Long Road.","sources":["PowerPyx","sixshore"]},
+{"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Complete the final mission for Randy: his wish list asks for 16 sports cars. The strand opens in Chapter 3 — find the cars on his list and deliver them.","sources":["PowerPyx","sixshore"]},
+{"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Complete the final mission for Tyrone: shut down the labs in Vice City. His strand is Jason-only and starts in Chapter 3.","sources":["PowerPyx","sixshore"]},
+{"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","kinds":["missable","activities"],"missable":true,"hidden":false,"stage":1,"count":18,"guide":"Meditate at every one of the 18 spots across Leonida. WARNING — possibly the only missable trophy in the game: during Chapter 1, one morning at Jason's house, Lucia says she is going to meditate and walks out to the balcony. Follow her and accept the optional quest; that meditation is gone after Chapter 1. PowerPyx reports it raises the meditation counter but is not marked as a spot like the other 18, so it is unclear whether the trophy needs it — do it anyway, it takes a minute and removes the risk. The 100% checklist needs 15 of the 18 spots.","sources":["PowerPyx","sixshore"]},
+{"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":3,"guide":"Hunt a unique animal for Bret. His strand is Jason-only and opens in Chapter 2. PowerPyx has not confirmed which animal triggers it — clearing all 15 of Bret's target decks, which the 100% checklist needs, should cover it.","sources":["PowerPyx","sixshore"]},
+{"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":3,"guide":"Complete 3 collectible card sets out of 18. Cards are scattered across Leonida; any 3 finished sets pop the trophy, and the 100% checklist needs 15 of the 18 sets, so keep collecting after this one.","sources":["PowerPyx","sixshore"]},
+{"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":100,"guide":"Use the WAiNK phone app to scan 100 locations: landmarks, curiosities and sculptures all count. Scan everything you pass — the app marks what counts, and the same habit feeds the vehicle-discovery trophy.","sources":["PowerPyx","sixshore"]},
+{"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":50,"guide":"Complete 50 challenges. The game tracks 80 in total and the 100% checklist needs 70, so this pops on the way to A Long Road — work through the challenge list on the progress screen and skip the hardest ones, since you only need 70 of 80.","sources":["PowerPyx","sixshore"]},
+{"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"guide":"Lose a 4-star wanted level with your partner along and escape the heat. It is possible once both characters can roam together in Chapter 2; bank jobs hand you 4 stars anyway, so it often pops during a vault job — then break line of sight and stay hidden until the stars clear.","sources":["PowerPyx","sixshore"]},
+{"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":3,"guide":"Rob 3 shops back-to-back with your partner without losing your wanted level. Keep the wanted level alive between shops and move fast from one to the next; PowerPyx says the trophy pops about 30 seconds after the third shop.","sources":["PowerPyx","sixshore"]},
+{"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":100,"guide":"Discover 100 vehicles. Scanning them with the WAiNK app is enough — you do not have to drive them. Scan every new vehicle you pass; the 100% checklist needs 200 of the 277 base models, so keep scanning.","sources":["PowerPyx","sixshore"]},
+{"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":5,"guide":"Take down 5 enemies in a single use of Combat Focus. PowerPyx says gang members count, while soldiers, police and civilians seem not to — find a group of gang members, trigger Combat Focus, and drop five before it ends.","sources":["PowerPyx","sixshore"]},
+{"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Make an unscheduled departure at Vice City International Airport: steal a passenger jet docked at a gate and fly about 1 km away from the airport. Any jet at a gate works — get in, take off, and keep flying until it pops.","sources":["PowerPyx","sixshore"]},
+{"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Steal a military tank — the description's Rhinos are the army's tanks. PowerPyx found them at Mile Zero Air Station in the southwest of the map. Drive in, take one, and get clear.","sources":["PowerPyx","sixshore"]},
+{"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"guide":"Rob a jewelry store without being detected. You need the Snap Gun, which a Chapter 3 main mission gives you — wait until then, case the store, and get in and out without tripping the alarm or being spotted.","sources":["PowerPyx","sixshore"]},
+{"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":5,"guide":"Rob 5 bank vaults and escape. Bank jobs open through an optional mission in Chapter 4; there are 8 vaults in total and the 100% checklist needs all of them. Plan each job, grab the cash, and escape with the heat on.","sources":["PowerPyx","sixshore"]},
+{"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"guide":"Rob an armored truck and escape. The first bank job counts toward it, or you can blow open a truck's back door with a sticky bomb earlier — either way, grab the cash and get away clean.","sources":["PowerPyx","sixshore"]},
+{"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":52,"guide":"Explore all of Leonida — clear the fog from the entire map, all 52 areas. A plane is the fastest way: fly low over every region until the map is uncovered.","sources":["PowerPyx","sixshore"]},
+{"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":false,"stage":2,"count":9,"guide":"Rob an illegal operation belonging to each of the 9 gangs. One per gang is enough for the trophy; the 100% checklist needs all 39 operations, so this is the start of a longer cleanup.","sources":["PowerPyx","sixshore"]},
+{"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Enjoy a cocktail with a view on Ocean Beach. The exact method is not yet confirmed by the guide writers as of 19 November 2026 — head to Ocean Beach, find a bar with a view, and order a cocktail; the trophy should pop when the scene plays.","sources":["PowerPyx","sixshore"]},
+{"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Smash your way out of a vehicle showroom in classic style. The exact method is not yet confirmed as of 19 November 2026 — take a car inside a showroom and drive it straight out through the glass; it is an open-world stunt, so try it after the story when you have a fast car.","sources":["PowerPyx","sixshore"]},
+{"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Follow through at the Kolt & Associates' bowling alley: take all 3 key valuables from the Kingpin Bowling gang operation in Port Gellhorn. The robbery comes back later if you miss anything, so it is not missable.","sources":["PowerPyx","sixshore"]},
+{"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Max out strength on both Jason and Lucia. Work out together and both make progress — gyms and training spots raise strength, and the trophy pops when both characters are at the top.","sources":["PowerPyx","sixshore"]},
+{"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"count":500,"guide":"Do 500 things that change your criminal profile. It comes naturally over a full playthrough — robberies, stunts, races and crimes all feed the profile, and the counter is tracked on the progress screen.","sources":["PowerPyx","sixshore"]},
+{"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Second time's the charm. The method is not yet confirmed as of 19 November 2026 — PowerPyx suspects a link to a Payday Loans store. Try the store's services twice and see what changes on the second visit.","sources":["PowerPyx","sixshore"]},
+{"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"What the hell just happened? The method is not yet confirmed as of 19 November 2026 — PowerPyx suspects a UFO questline. Keep an eye out for strange lights and unexplained events around Leonida and follow them.","sources":["PowerPyx","sixshore"]},
+{"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","kinds":["activities"],"missable":false,"hidden":true,"stage":2,"guide":"Bowl 'em over with a melee drive-by. The in-game hint points to a melee attack from a moving vehicle — PowerPyx suspects a kick from a motorcycle. Ride past someone on a bike and strike with a melee attack.","sources":["PowerPyx","sixshore"]},
+{"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":250000,"guide":"Earn $250,000 laundering marked bills through your contacts. Marked bills come from robberies and add up across them; the dye pack jammer unlocks in a Chapter 3 main mission, so wait for that before laundering in bulk.","sources":["PowerPyx","sixshore"]},
+{"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":100000,"guide":"Spend $100,000 across all shops. Guns, car mods and tattoos get you there fastest — it is cumulative, so it pops naturally as you gear up, or top it up at the gun store.","sources":["PowerPyx","sixshore"]},
+{"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":8,"guide":"Purchase all 8 garage properties. PowerPyx puts the total at about $160,000, and the real estate app arrives in Chapter 2 — buy them as they appear; you will also need the garage space for the Scooter Bros trophy.","sources":["PowerPyx","sixshore"]},
+{"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","kinds":["collectibles"],"missable":false,"hidden":false,"stage":2,"count":10,"guide":"Register 10 vehicles to the Scooter Bros app. You need garage space first, so pair it with Little Boxes — store a vehicle in a garage, open the app, and register it; repeat ten times.","sources":["PowerPyx","sixshore"]}
+]}
